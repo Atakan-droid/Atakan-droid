@@ -15,6 +15,7 @@
 [<img align="left" alt="Atakan-droid | Instagram" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_24x24.png" />][instagram]
 
 <br />
+<br />
 
 [linkedin]: https://www.linkedin.com/in/atakan-göçer-8781701a0/
 [twitter]: https://twitter.com/Atakan_gcr
