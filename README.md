@@ -1,4 +1,4 @@
-### I'm Atakan💇‍♂️
+### Hi there,I'm Atakan💇‍♂️
 ## I'am just a Developer
 
 - 😼 I'am currently learning everything,
