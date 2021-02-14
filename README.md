@@ -21,7 +21,8 @@
 
 ---
 
-<img align="left" alt="Atakan-droid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Atakan-droid" />
+<img align="left" alt="Atakan-droid's Github Stats" 
+src="https://github-readme-stats.vercel.app/api?username=Atakan-droid&show_icons=true&hide_border_true&bg_color=COLOR1" />
 
 [linkedin]: https://www.linkedin.com/in/atakan-göçer-8781701a0/
 [twitter]: https://twitter.com/Atakan_gcr
