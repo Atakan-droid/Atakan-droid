@@ -1,9 +1,9 @@
 ### Hi there,I'm Atakan💇‍♂️
 ## I'am just a Developer
 
-- 😼 I'am currently learning everything,
-- 🐗 Trying new things,
-- 🔺 Taking risks,
+- 😼 I'am currently learning everything
+- 🐗 Trying new things
+- 🔺 Taking risks
 
 <br />
 
