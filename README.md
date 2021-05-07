@@ -3,7 +3,7 @@
 
 - 😼 I'am currently learning everything
 - 🐗 Trying new things
-- 🔺 Taking risks
+- 🔺 Sharing with everyone
 
 <br />
 
