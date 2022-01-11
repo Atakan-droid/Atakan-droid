@@ -1,7 +1,7 @@
 ### Hi there,I'm Atakan💇‍♂️
 ## I'am just a Developer
 
-- 😼 I'am currently learning everything
+- 😼 I'm currently learning everything
 - 🐗 Trying new things
 - 🔺 Sharing with everyone
 
