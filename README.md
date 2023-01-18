@@ -1,5 +1,5 @@
 ### Hi there,I'm Atakan💇‍♂️
-## I'am just a Developer
+## Just a Developer
 
 - 😼 I'm currently learning everything
 - 🐗 Trying new things
