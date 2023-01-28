@@ -12,11 +12,11 @@
 
 [<img align="left" alt="Atakan-droid | LinkedIn" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_24x24.png" />][linkedin]
 [<img align="left" alt="Atakan-droid | Twitter" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_24x24.png" />][twitter]
-[<img align="left" alt="Atakan-droid | Instagram" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_24x24.png" />][instagram]
+
+[twitter]:https://twitter.com/Atakan_gcr
+[linkedin]:https://www.linkedin.com/in/atakangocer/
 
 <br />
-<br />
-
 <br />
 
 ---
