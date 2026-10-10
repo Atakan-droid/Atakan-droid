@@ -30,23 +30,11 @@ I build practical software, explore scalable backend patterns, and share what I 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=flat-square&logo=huawei&logoColor=white)
+![SQL databases](https://img.shields.io/badge/SQL_Databases-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NoSQL databases](https://img.shields.io/badge/NoSQL_Databases-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## Featured projects
-
-| Project | What it explores |
-| --- | --- |
-| [DynamicCampaignAgent](https://github.com/Atakan-droid/DynamicCampaignAgent) | A container-ready .NET Web API for campaign offers and cart suggestions, organized into Agent, Core, Data, and Service layers. |
-| [CQRS-Project](https://github.com/Atakan-droid/CQRS-Project) | An e-commerce backend template using .NET Web API, CQRS, MediatR, and vertical-slice architecture. |
-| [gRPC-Example](https://github.com/Atakan-droid/gRPC-Example) | .NET gRPC client/server and todo examples built with Protocol Buffers. |
-| [AWS_Fundamentals](https://github.com/Atakan-droid/AWS_Fundamentals) | C# examples for working with AWS services such as S3, SQS, SNS, and DynamoDB. |
-
-## More experiments
-
-[Go samples](https://github.com/Atakan-droid/GoProjects) ·
-[Python web scraper](https://github.com/Atakan-droid/Python_Web_Scrapper) ·
-[Nuxt projects](https://github.com/Atakan-droid/Nuxt-Projects) ·
-[React todo app](https://github.com/Atakan-droid/React-Js-Todo)
 
 ---
 
